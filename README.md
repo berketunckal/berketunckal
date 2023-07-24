@@ -1,6 +1,5 @@
 # 💫 About Me:
-ROS: As a ROS enthusiast, I'm actively involved in developing innovative robotics solutions and automation projects using the powerful ROS framework.<br>PLC Programming: Working with Beckhoff's Twincat software, I'm proficient in writing structured text to implement complex control systems for various industrial applications.<br>ROS: As a ROS enthusiast, I'm actively involved in developing innovative robotics solutions and automation projects using the powerful ROS framework.<br>PLC Programming: Working with Beckhoff's Twincat software, I'm proficient in writing structured text to implement complex control systems for various industrial applications.
-
+I'm a seasoned professional in the robotics industry with one year of hands-on experience. My journey in this exciting field began with motor control, where I initially started working with PLCs to implement advanced control solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/berke-tunckal/) 
