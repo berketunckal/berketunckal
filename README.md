@@ -1,5 +1,5 @@
 # 👋 About Me:
-I'm a seasoned professional in the robotics industry with one year of hands-on experience. My journey in this exciting field began with motor control, where I initially started working with PLCs to implement advanced control solutions.
+I'm a seasoned professional in the robotics industry with 2 year of hands-on experience. My journey in this exciting field began with motor control, where I initially started working with PLCs to implement advanced control solutions.
 
 # 💫 Background:
 
