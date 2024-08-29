@@ -1,11 +1,14 @@
 # 👋 About Me:
-I'm a seasoned professional in the robotics industry with 2 year of hands-on experience. My journey in this exciting field began with motor control, where I initially started working with PLCs to implement advanced control solutions.
+I'm a dedicated professional in the robotics industry with two years of hands-on experience. My journey began with motor control, where I worked with PLCs to implement advanced control solutions, and it has expanded into broader robotics applications.
 
 # 💫 Background:
+Robotics Sector: Over the past year, I've been actively engaged in the robotics field, contributing to innovative projects that explore the potential of robotics and automation.
 
-Robotics Sector: Over the past year, I've been actively engaged in the robotics sector, exploring its vast potential and contributing to cutting-edge projects.
-Motor Control Expertise: I gained invaluable expertise in motor control, understanding the intricacies of precise motion management in robotic systems.
-PLC Proficiency: I harnessed the power of PLCs to execute motor control tasks with efficiency and reliability, utilizing various programming languages, including Beckhoff's Twincat and structured text.
+Motor Control Expertise: I've developed a deep understanding of motor control, mastering the intricacies of precise motion management in robotic systems.
+
+PLC Proficiency: I leverage PLCs, particularly Beckhoff's Twincat, to execute efficient and reliable motor control tasks, utilizing structured text and other programming languages.
+
+ROS/ROS 2 Development: I've integrated ROS and ROS 2 into my projects, focusing on robot navigation, hardware interfaces, and seamless communication with PLCs, driving advancements in autonomous systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/berke-tunckal/) 
